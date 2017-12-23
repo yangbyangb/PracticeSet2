@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">篮球比赛计分器</string>
+    <string name="add_2_points">两分球</string>
+    <string name="add_3_points">三分球</string>
+    <string name="free_throw">罚球</string>
+    <string name="reset">重置</string>
+    <string name="team_A">A队</string>
+    <string name="team_B">B队</string>
+</resources>
